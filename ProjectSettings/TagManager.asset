@@ -6,6 +6,8 @@ TagManager:
   tags:
   - MapDestroyTrigger
   - SpawnAheadTrigger
+  - SpawnLeftTrigger
+  - SpawnRightTrigger
   layers:
   - Default
   - TransparentFX
